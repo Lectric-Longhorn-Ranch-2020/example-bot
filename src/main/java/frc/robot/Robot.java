@@ -31,7 +31,7 @@ public class Robot extends TimedRobot {
    * used for any initialization code.
    */
   @Override
-  public void robotInit() {C:\Users\bill/.ssh/id_rsa
+  public void robotInit() {
   public void autonomousInit() {
     m_timer.reset();
     m_timer.start();
