@@ -32,6 +32,12 @@ public class Robot extends TimedRobot {
    */
   @Override
   public void robotInit() {
+  }
+
+  /**
+   * This function is run once each time the robot enters autonomous mode.
+   */
+  @Override
   public void autonomousInit() {
     m_timer.reset();
     m_timer.start();
